@@ -19,7 +19,7 @@ console.log(joinMessage("Nova"));
 console.log(joinMessage("Pixel_7"));
 console.log(joinMessage("x"));
 /*
-PMS-3 :
+PMS-4 :
 Give your playlist a name to match its mood.
   Create playlistName to return mood followed by " Mix". For "Late Night",
   return "Late Night Mix".
